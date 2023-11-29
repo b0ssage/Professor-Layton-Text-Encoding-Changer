@@ -1,0 +1,12 @@
+
+
+//ibg_# text[t_#] LorR FRAME
+
+
+//LoadSubBG "I_car4.bgx" 2
+
+	(void)DoPart(2, 21, 'L', 60);
+	(void)DoPart(2, 22, 'R', 100);
+	(void)DoPart(1, 23, 'L', 100);
+	(void)DoPart(1, 24, 'R', 50);
+	(void)DoPart(2, 25, 'R', 100);
