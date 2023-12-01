@@ -1,2 +1,0 @@
-@1ムフーッ！
-&SetAni 1 talk&当分、町からは誰も出られねえよ！&SetAni 1 mufu&
